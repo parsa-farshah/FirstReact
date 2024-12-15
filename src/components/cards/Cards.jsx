@@ -14,7 +14,7 @@ export default function Cards() {
             src={whatsapp}
             alt=""
           />
-          <h2 className="text-4xl font-extrabold p-3 md:text-lg lg:text-2xl">
+          <h2 className="text-2xl font-extrabold p-3 md:text-lg lg:text-2xl">
             WhatsApp Application
           </h2>
           <p className="md:text-base lg:text-2xl text-2xl font-black uppercase mt-3 py-2 ">
@@ -70,8 +70,8 @@ export default function Cards() {
             src={discord}
             alt=""
           />
-          <h2 className="text-4xl font-extrabold p-3 md:text-lg lg:text-2xl">
-            WhatsApp Application
+          <h2 className="text-2xl font-extrabold p-3 md:text-lg lg:text-2xl">
+            Discord Application
           </h2>
           <p className="md:text-base lg:text-2xl text-2xl font-black uppercase mt-3 py-2 ">
             Prsa-Fresh
